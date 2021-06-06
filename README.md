@@ -1,4 +1,5 @@
 <img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/Frame 7 (1).png" alt="developer and designer">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+<h3 align="left">About me</h3>
+Hello, I’m Sagar. I’m a designer who loves coding.I am an Experienced developer and designer with a demonstrated history of working remotely on projects for agencies, startups, organizations and charities. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference.I an a person who involves in a project as it need me to be; from the seed of the idea, to sketches, creative direction, design, system design, and even the build.Some technologies I enjoy working with include Flutter, ReactJS, ,Machine learning and core CS technologies.
 
-<h3 align="left">Connect with me:</h3>
+
