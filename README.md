@@ -5,7 +5,7 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/in.svg" alt="linkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/in.svg" alt="linkedIn" height="30" width="30"/></a> <div width="10"></div>
 <a href="https://in.pinterest.com/Sagar__naik/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/p.svg" alt="pintrest" height="30" width="30" /></a>
 <a href="https://dribbble.com/Sagar_naik" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/d.svg" alt="dribbble" height="30" width="30" /></a>
 <a href="https://www.instagram.com/___sagar_naik___/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/i.svg" alt="dribbble" height="30" width="30" /></a>
