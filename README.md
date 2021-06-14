@@ -26,11 +26,6 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ubontu.svg" alt="ubontu" height="30" width="30"/>&nbsp;
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarnaikg&show_icons=true&locale=en&layout=compact" alt="sagarnaikg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarnaikg&show_icons=true&locale=en" alt="sagarnaikg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarnaikg&" alt="sagarnaikg" /></p>
 
 
 
