@@ -1,6 +1,8 @@
 <img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/banner.png" alt="developer and designer">
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+
 <h3 align="left" style="color:#66DC8A;" >About me</h3>
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sagarnaikg)](https://github.com/sagarnaikg) [![GitHub followers](https://img.shields.io/github/followers/sagarnaikg.svg?style=social&label=Follow)](https://github.com/sagarnaikg?tab=followers)
+
 Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced developer and designer with a demonstrated history of working remotely on projects for agencies, startups, organizations and charities. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference.I an a person who involves in a project as it need me to be; from the seed of the idea, to sketches, creative direction, design, system design, and even the build.Some technologies I enjoy working with include *Flutter, ReactJS, ,Machine learning and core CS technologies*.
 
 <h3 align="left">Connect with me:</h3>
