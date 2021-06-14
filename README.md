@@ -14,7 +14,7 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex">
+<div style="display:grid;grid-gap:2px;">
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/flutter.svg" alt="flutter" height="30" width="30"/>&nbsp;
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/figma.svg" alt="figma" height="30" width="30"/>&nbsp;
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/xd.svg" alt="xd" height="30" width="30"/>&nbsp;
