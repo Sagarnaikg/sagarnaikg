@@ -26,7 +26,6 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ubontu.svg" alt="ubontu" height="30" width="30"/>&nbsp;
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
