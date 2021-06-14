@@ -1,5 +1,5 @@
 <img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/banner.png" alt="developer and designer">
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sagarnaikg.sagarnaikg)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sagarnaikg.sagarnaikg)
 
 <h3 align="left" style="color:#66DC8A;" >About me</h3>
 
