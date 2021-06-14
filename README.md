@@ -1,5 +1,5 @@
 <img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/banner.png" alt="developer and designer">
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sagarnaikg.sagarnaikg)
 
 <h3 align="left" style="color:#66DC8A;" >About me</h3>
 
