@@ -16,14 +16,14 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:flex">
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/flutter.svg" alt="flutter" height="30" width="30"/>&nbsp;
-  <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/figma.svg" alt="figma" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/xd.svg" alt="xd" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/react.svg" alt="react" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/sass.svg" alt="sass" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ts.svg" alt="ts" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/tensorflow.svg" alt="tensorflow" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/html.svg" alt="html" height="30" width="30"/>&nbsp;
-    <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ubontu.svg" alt="ubontu" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/figma.svg" alt="figma" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/xd.svg" alt="xd" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/react.svg" alt="react" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/sass.svg" alt="sass" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ts.svg" alt="ts" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/tensorflow.svg" alt="tensorflow" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/html.svg" alt="html" height="30" width="30"/>&nbsp;
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ubontu.svg" alt="ubontu" height="30" width="30"/>&nbsp;
 </div>
 
 
