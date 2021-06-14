@@ -1,5 +1,4 @@
 <img src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/banner.png" alt="developer and designer">
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sagarnaikg.sagarnaikg)]
 <h3 align="left" style="color:#66DC8A;" >About me</h3>
 
 Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced developer and designer with a demonstrated history of working remotely on projects for agencies, startups, organizations and charities. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference.I an a person who involves in a project as it need me to be; from the seed of the idea, to sketches, creative direction, design, system design, and even the build.Some technologies I enjoy working with include *Flutter, ReactJS, ,Machine learning and core CS technologies*.
@@ -27,6 +26,7 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/ubontu.svg" alt="ubontu" height="30" width="30"/>&nbsp;
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
