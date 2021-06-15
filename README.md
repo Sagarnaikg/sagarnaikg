@@ -32,19 +32,20 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 ##
 <h4 align="left">Featured projects:</h4>
 <div style="display:flex;" >
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img00.png" width="400"  alt="linkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="linkedIn"/></a>&nbsp;
+<a href="https://github.com/Sagarnaikg/Need-For-Blood" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img00.png" width="400"  alt="need for blood"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Tic-Tac-Toe-React" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="react-to-do-app"/></a>&nbsp;
     <h6></h6>
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="linkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img03.png" width="400" alt="linkedIn"/></a>&nbsp;
+<a href="https://github.com/Sagarnaikg/Playstation5" target="_blank"><img align="center" 
+src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Portfolio-Native-Web" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img03.png" width="400" alt="portfilio"/></a>&nbsp;
     <h6></h6>
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img04.png" width="400"  alt="linkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img05.png" width="400" alt="linkedIn"/></a>&nbsp;
+<a href="https://github.com/Sagarnaikg/Dimiri-Marco-Portfolio" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img04.png" width="400"  alt="dimiri"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Website-bootstrap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img05.png" width="400" alt="bootsrtap"/></a>&nbsp;
     <h6></h6>
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img06.png" width="400"  alt="linkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img07.png" width="400" alt="linkedIn"/></a>&nbsp;
+<a href="https://github.com/Sagarnaikg/Landing-page-SCSS" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img06.png" width="400"  alt="scss"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Travell-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img07.png" width="400" alt="skying"/></a>&nbsp;
     <h6></h6>
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img08.png" width="400" alt="linkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Hotel-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img08.png" width="400" alt="hotel"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
