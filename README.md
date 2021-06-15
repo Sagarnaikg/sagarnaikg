@@ -29,8 +29,9 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <a href="https://www.facebook.com/profile.php?id=100031012898797" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/f.svg" alt="facebook" height="30" width="30" /></a>&nbsp;
 </div>
 
-## Featured projects
-<div>
+
+<h4 align="left">Featured projects:</h4>
+<div style="display:flex;" >
 <a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img00.png" width="400"  alt="linkedIn"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="linkedIn"/></a>&nbsp;
 </div>
