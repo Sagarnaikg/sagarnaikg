@@ -31,8 +31,8 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 
 ## Featured projects
 <div>
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img00.png" width="200"  alt="linkedIn"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="200" alt="linkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img00.png" width="400"  alt="linkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sagar-naik-8b0211197/" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="linkedIn"/></a>&nbsp;
 </div>
 
 
