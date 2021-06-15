@@ -43,7 +43,7 @@ src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width=
 <a href="https://github.com/Sagarnaikg/Website-bootstrap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img05.png" width="400" alt="bootsrtap"/></a>&nbsp;
     <h6></h6>
 <a href="https://github.com/Sagarnaikg/Landing-page-SCSS" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img06.png" width="400"  alt="scss"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Sagarnaikg/Travell-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img07.png" width="400" alt="skying"/></a>&nbsp;
+<a href="https://github.com/Sagarnaikg/Skying-ticket-booking-webpage" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img07.png" width="400" alt="skying"/></a>&nbsp;
     <h6></h6>
 <a href="https://github.com/Sagarnaikg/Hotel-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img08.png" width="400" alt="hotel"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
