@@ -33,6 +33,9 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 ##
 <h4 align="left">Featured projects:</h4>
 <div style="display:flex;" >
+<a href="https://github.com/Sagarnaikg/Tic-Tac-Toe-React" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="react-to-do-app"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Dimiri-Marco-Portfolio" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img04.png" width="400"  alt="dimiri"/></a>&nbsp;
+<h6></h6>
 <a href="https://github.com/Sagarnaikg/Playstation5" target="_blank"><img align="center" 
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/Dimiri-Marco-Portfolio" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img04.png" width="400"  alt="dimiri"/></a>&nbsp;
@@ -45,8 +48,6 @@ src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width=
 <h6></h6>
 <a href="https://github.com/Sagarnaikg/Hotel-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img08.png" width="400" alt="hotel"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/Website-bootstrap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img05.png" width="400" alt="bootsrtap"/></a>&nbsp;
-<h6></h6>
-<a href="https://github.com/Sagarnaikg/Tic-Tac-Toe-React" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="react-to-do-app"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
