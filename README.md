@@ -60,7 +60,7 @@ src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width=
 <a href="https://github.com/Sagarnaikg/animated-dots" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/dotsanimation.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/slider-animation" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/slideranimation.gif" width="400" alt="demo"/></a>&nbsp;
 <h6></h6>
-<a href="https://github.com/Sagarnaikg/Custom-cursor-gsap" target="_blank"><img align="center" src=https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/custom-cusror.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/Custom-cursor-gsap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/custom-cusror.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
