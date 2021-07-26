@@ -32,7 +32,8 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 
 ##
 <h4 align="left">Featured projects:</h4>
-<h4 align="left">Flutter</h4> 
+<div style="display:flex;" >
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/flutter.svg" alt="flutter" height="30" width="30"/><h4 align="left">Flutter</h4> </div>
 <div style="display:flex;" >
  <a href="https://github.com/Sagarnaikg/eWalle" target="_blank">
  <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/eWalle.png" width="400"  alt="Heart care"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
