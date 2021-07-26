@@ -32,12 +32,11 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 
 ##
 <h4 align="left">Featured projects:</h4>
-<div style="display:inline;" >
-<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/flutter.svg" alt="flutter" height="30" width="30"/><h4 align="left">Flutter</h4> </div>
+<h3 align="left">Flutter</h3>
 <div style="display:flex;" >
- <a href="https://github.com/Sagarnaikg/eWalle" target="_blank">
- <img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/eWalle.png" width="400"  alt="Heart care"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
+<a href="https://github.com/Sagarnaikg/eWalle" target="_blank">
+<img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/eWalle.png" width="400"  alt="Heart care"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="ebbok"/></a>&nbsp;
 <h6></h6>
 <a href="https://github.com/Sagarnaikg/Heart-Care" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/Dribbble%20shot%20HD%20-%202.png" width="400"  alt="eWalle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
