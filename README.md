@@ -51,7 +51,7 @@ src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width=
 <a href="https://github.com/Sagarnaikg/slider-animation" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/slideranimation.gif" width="400" alt="demo"/></a>&nbsp;
 <h6></h6>
 <a href="https://github.com/Sagarnaikg/Custom-cursor-gsap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/custom-cusror.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<h5 align="left">Web</h5>
+<h5 align="center">Web</h5>
 <a href="https://github.com/Sagarnaikg/Tic-Tac-Toe-React" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img01.png" width="400" alt="react-to-do-app"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/Dimiri-Marco-Portfolio" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img04.png" width="400"  alt="dimiri"/></a>&nbsp;
 <h6></h6>
