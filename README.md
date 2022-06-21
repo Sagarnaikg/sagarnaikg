@@ -63,7 +63,7 @@ src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width=
 <h6></h6>
 <a href="https://github.com/Sagarnaikg/Hotel-website" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img08.png" width="400" alt="hotel"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/Website-bootstrap" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img05.png" width="400" alt="bootsrtap"/></a>&nbsp;
-<h6></h6>
+<h6></h6> 
 </div>
 
 
