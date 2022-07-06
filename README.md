@@ -38,7 +38,7 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;
 <h6></h6>
 <a href="https://github.com/Sagarnaikg/drishti" target="_blank"><img align="center" 
-target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400" height="300"  alt="PS5"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-test.png" width="400" alt="PS5"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400" alt="eWalle"/></a>&nbsp;
 <h6></h6>
