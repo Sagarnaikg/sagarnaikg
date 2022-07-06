@@ -37,15 +37,10 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <a href="https://github.com/Sagarnaikg/Playstation5" target="_blank"><img align="center" 
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;
 <h6></h6>
-<a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
-src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="eWalle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/drishti" target="_blank"><img align="center" 
-target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400"  alt="PS5"/></a>&nbsp;
-<h6></h6>
+target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400"  alt="PS5"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
-src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="eWalle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Sagarnaikg/drishti" target="_blank"><img align="center" 
-target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400"  alt="PS5"/></a>&nbsp;
+src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="eWalle"/></a>&nbsp;
 <h6></h6>
 <h5 align="left">Web Animation</h5>
 <a href="https://github.com/Sagarnaikg/image-reveal-animation" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/imagerevealanimation.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
