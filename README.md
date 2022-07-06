@@ -29,7 +29,6 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <a href="https://www.facebook.com/profile.php?id=100031012898797" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/f.svg" alt="facebook" height="30" width="30" /></a>&nbsp;
 <a href="https://www.behance.net/sagarnaik1" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/be.svg" alt="behance" height="30" width="30" /></a>&nbsp;
 </div>
-
 ##
 <h4 align="left">Featured projects:</h4>
 <h5 align="left">Flutter</h5>
@@ -38,14 +37,11 @@ Hello, I’m **Sagar**. I’m a designer who loves coding.I am an Experienced de
 <a href="https://github.com/Sagarnaikg/Playstation5" target="_blank"><img align="center" 
 src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;
 <h6></h6>
-<a href="https://github.com/Sagarnaikg/Heart-Care" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/Dribbble%20shot%20HD%20-%202.png" width="400"  alt="eWalle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Sagarnaikg/Playstation5" target="_blank"><img align="center" 
-src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/img02.png" width="400"  alt="PS5"/></a>&nbsp;
-<h6></h6>
 <a href="https://github.com/Sagarnaikg/ebook" target="_blank"><img align="center" 
-src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="ebbok"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/demo.gif" width="400"  alt="eWalle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/drishti" target="_blank"><img align="center" 
-src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400"  alt="PS5"/></a>&nbsp;
+target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/drishti-img.png" width="400"  alt="PS5"/></a>&nbsp;
+<h6></h6>
 <h5 align="left">Web Animation</h5>
 <a href="https://github.com/Sagarnaikg/image-reveal-animation" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/imagerevealanimation.gif" width="400" alt="demo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sagarnaikg/Agency" target="_blank"><img align="center" src="https://github.com/Sagarnaikg/sagarnaikg/blob/main/assets/landingpageanimation.gif" width="400" alt="demo"/></a>&nbsp;
